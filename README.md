@@ -1,6 +1,6 @@
-# media-project created by Duncan Njau G as a microverse student on 25/06/2022.
+# Media-project created by Duncan Njau G as a microverse student on 25/06/2022.
 
-# ASIGNMENT
+# Requirement
 Introduction
 Our first project will require you to draw on your new understanding of working with media by building YouTube's video player page (the example video is one where I describe making contributions to open source).
 
