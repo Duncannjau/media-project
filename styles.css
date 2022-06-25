@@ -34,22 +34,22 @@ nav {
     margin-right: 25px;
 }
 
-.nav-right .flex-div.user-icon {
+.nav-right.user-icon {
     width: 35px;
     border-radius: 50%;
     margin-right: 0;
 }
 
-.nav-left .menu-icon {
+.nav-left.menu-icon {
     width: 22px;
     margin-right: 25px;
 }
 
-.nav-right.logo {
+.nav-left.logo {
     width: 130px;
 }
 
-.nav-middle .mic-icon {
+.nav-middle.mic-icon {
     width: 16px;
 }
 
@@ -62,7 +62,15 @@ nav {
 
 .nav-middle.search-box input {
     width: 400px;
-    border: 0;
+    border: o;
     outline: 0;
     background: transparent;
+}
+
+.nav-middle.mic-icon {
+    width: 16px;
+}
+
+.nav-middle.search-box img {
+    width: 15px;
 }
