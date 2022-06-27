@@ -184,3 +184,25 @@
             -ms-border-radius: 8px;
             -o-border-radius: 8px;
         }
+        
+        .list-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px.1fr));
+            grid-column-gap: 16px;
+            grid-row-gap: 30px;
+            margin-top: 15px;
+        }
+        
+        .vid-list.thumbnail {
+            width: 100%;
+            border-radius: 5%;
+            -webkit-border-radius: 5%;
+            -moz-border-radius: 5%;
+            -ms-border-radius: 5%;
+            -o-border-radius: 5%;
+        }
+        
+        .vid-list.flex-div {
+            align-items: flex-start;
+            margin-top: 7px;
+        }
